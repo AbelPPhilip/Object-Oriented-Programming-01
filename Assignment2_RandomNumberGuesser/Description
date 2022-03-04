@@ -1,0 +1,21 @@
+/*
+* Class: CMSC203 CRN 21456
+* Instructor: Ahmed Tarek 
+* Description: The Random number generator program is a mini program that stores a random number and the user will have to guess it. 
+* The number of guesses will be recorded and the number of options to guess will also decrease according to the user’s input. 
+* The main Driver Class, Random Number Guesser will be using methods provided in the provided RNG class. 
+* Due: 2/20/2021
+* Platform/compiler:Eclipse IDE
+* I pledge that I have completed the programming assignment independently.
+I have not copied the code from a student or any source.
+I have not given my code to any student.
+Print your Name here: Abel Philip
+*/
+/**
+ * @author abelp
+ * @Date 09/20/2021
+ * @Description: The Random number generator program is a mini program that stores a random number and the user will have to guess it. 
+* The number of guesses will be recorded and the number of options to guess will also decrease according to the user’s input. 
+* The main Driver Class, Random Number Guesser will be using methods provided in the provided RNG class. 
+* @Info The methods used in the RandomNumberGuesser.java is taken from the RNG.java class which was already provided. 
+ */
